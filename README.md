@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issaelr&label=Profile%20views&color=0e75b6&style=flat" alt="issaelr" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Java, ASP.NET CORE, C++**
 
