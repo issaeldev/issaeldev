@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Issael Rocha</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="deep-learning" width="400" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Deep_Learning.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled">
 
 - 🌱 I’m currently learning **ML/Deep Learning**
 
@@ -24,5 +24,4 @@
   
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=issaelr&show_icons=true&locale=en&layout=compact" alt="issaelr" /></p>
 
