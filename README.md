@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Issael Rocha</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist | Programmer</h3>
 <img align="right" alt="deep-learning" width="400" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Deep_Learning.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled">
 
 - 🌱 I’m currently learning **ML/Deep Learning**
